@@ -1,0 +1,3 @@
+# What Google Learned From Its Quest to Build the Perfect Team
+
+A small summary of the passage is in short: A more comfortable work group can provide a safer and stress free zone. when having to choose between a strict team that only works to get things done, and a relaxed group that can still chatter amongst each other, i feel i would pick the more relaxed team as it would feel more comfortable to me.
