@@ -34,7 +34,7 @@ This website is used as a compilation of all of my, Jacob Amsbury's, reading not
 3. [Reading 3](Reading301/R3.md)
 4. [Reading 4](Reading301/R4.md)
 5. [Reading 5](Reading301/R5.md)
-6. [Reading 6]()
+6. [Reading 6](Reading301/R6.md)
 7. [Reading 7]()
 8. [Reading 8]()
 
