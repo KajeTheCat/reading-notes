@@ -39,5 +39,8 @@ This website is used as a compilation of all of my, Jacob Amsbury's, reading not
 8. [Reading 8](Reading301/R8.md)
 9. [Reading 9](Reading301/R9.md)
 10. [Reading 10](Reading301/R10.md)
+11. [Reading 11](Reading301/R11.md)
+12. [Reading 12](Reading301/R12.md)
+13. [Reading 13](Reading301/R13.md)
 
 ## Code 401 - Advanced Software Development
