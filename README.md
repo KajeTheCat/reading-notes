@@ -44,3 +44,6 @@ This website is used as a compilation of all of my, Jacob Amsbury's, reading not
 13. [Reading 13](Reading301/R13.md)
 
 ## Code 401 - Advanced Software Development
+1. [Reading 1](Reading401/R1.md)
+
++ [SQL](Reading401/SQL.MD)
