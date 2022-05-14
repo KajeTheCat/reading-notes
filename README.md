@@ -47,3 +47,4 @@ This website is used as a compilation of all of my, Jacob Amsbury's, reading not
 1. [Reading 1](Reading401/R1.md)
 
 + [SQL](Reading401/SQL.MD)
++ [CMD](Reading401/CMDline.MD)
