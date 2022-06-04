@@ -45,10 +45,11 @@ This website is used as a compilation of all of my, Jacob Amsbury's, reading not
 
 ## Code 401 - Advanced Software Development
 1. [Reading 1](Reading401/R1.md)
-2. [Reading 2](Reading401/R2.MD)
-3. [Reading 3](Reading401/R3.MD)
-4. [Reading 4](Reading401/R4.MD)
-5. [Reading 5](Reading401/R5.MD)
+2. [Reading 2](Reading401/R2.md)
+3. [Reading 3](Reading401/R3.md)
+4. [Reading 4](Reading401/R4.md)
+5. [Reading 5](Reading401/R5.md)
+6. [Reading 6](Reading401/R6.md)
 
-+ [SQL](Reading401/SQL.MD)
-+ [CMD](Reading401/CMDline.MD)
++ [SQL](Reading401/SQL.md)
++ [CMD](Reading401/CMDline.md)
