@@ -51,6 +51,7 @@ This website is used as a compilation of all of my, Jacob Amsbury's, reading not
 5. [Reading 5](Reading401/R5.md)
 6. [Reading 6](Reading401/R6.md)
 7. [Reading 7](Reading401/R7.md)
+8. [Reading 8](Reading401/R7.md)
 
 + [SQL](Reading401/SQL.md)
 + [CMD](Reading401/CMDline.md)
