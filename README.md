@@ -3,6 +3,7 @@
 This website is used as a compilation of all of my, Jacob Amsbury's, reading notes through his journey in CodeFellows. The links below should work properly to take you to each individual reading assignment for said notes.
 
 ## Code 102 - Intro to Software Development
+
 1. [Reading 1](Reading102/coderComputer.md)
 2. [Reading 2](Reading102/revisions.md)
 3. [Reading 3](Reading102/htmlstructure.md)
@@ -12,6 +13,7 @@ This website is used as a compilation of all of my, Jacob Amsbury's, reading not
 7. [Reading 7](Reading102/loops.md)
 
 ## Code 201 - Foundations of Software Development
+
 1. [Reading 1](Reading201/class-01.md)
 2. [Reading 2](Reading201/class-02.md)
 3. [Reading 3](Reading201/class-03.md)
@@ -29,6 +31,7 @@ This website is used as a compilation of all of my, Jacob Amsbury's, reading not
 15. [Reading 14](Reading201/class-14b.md)
 
 ## Code 301 - Intermediate Software Development
+
 1. [Reading 1](Reading301/R1.md)
 2. [Reading 2](Reading301/R2.md)
 3. [Reading 3](Reading301/R3.md)
@@ -44,6 +47,7 @@ This website is used as a compilation of all of my, Jacob Amsbury's, reading not
 13. [Reading 13](Reading301/R13.md)
 
 ## Code 401 - Advanced Software Development
+
 1. [Reading 1](Reading401/R1.md)
 2. [Reading 2](Reading401/R2.md)
 3. [Reading 3](Reading401/R3.md)
@@ -52,6 +56,7 @@ This website is used as a compilation of all of my, Jacob Amsbury's, reading not
 6. [Reading 6](Reading401/R6.md)
 7. [Reading 7](Reading401/R7.md)
 8. [Reading 8](Reading401/R8.md)
+9. [Reading 9](Reading401/R9.md)
 
 + [SQL](Reading401/SQL.md)
 + [CMD](Reading401/CMDline.md)
