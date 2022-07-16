@@ -63,6 +63,7 @@ This website is used as a compilation of all of my, Jacob Amsbury's, reading not
 13. [Reading 13](Reading401/R13.md)
 14. [Reading 14](Reading401/R14.md)
 15. [Reading 15](Reading401/R15.md)
+16. [Reading 16](Reading401/R16.md)
 
 + [SQL](Reading401/SQL.md)
 + [CMD](Reading401/CMDline.md)
