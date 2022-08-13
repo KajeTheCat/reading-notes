@@ -1,4 +1,5 @@
 # SQL
+
 What does SQL stand for? Structured Query Language, to put it simply, it's a search language used to instruct a database about what information you want from it.
 
 Select: A starting command like insert and create that will fetch for your search query. You can also use select to instruct a database to do some math.

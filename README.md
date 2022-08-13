@@ -67,6 +67,7 @@ This website is used as a compilation of all of my, Jacob Amsbury's, reading not
 17. [Reading 17](Reading401/R17.md)
 18. [Reading 18](Reading401/R18.md)
 19. [Reading 19](Reading401/R19.md)
+20. [Reading 20](Reading401/R20.md)
 
 + [SQL](Reading401/SQL.md)
 + [CMD](Reading401/CMDline.md)
